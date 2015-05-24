@@ -2,7 +2,7 @@
 * hello
 * how do you do??
 
-[link to youtube][1]
+[link to youtube][www.youtube.com]
 
 
 [1]: http:://youtube.com
