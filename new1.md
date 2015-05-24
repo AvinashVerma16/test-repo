@@ -2,4 +2,4 @@
 * hello
 * how do you do??
 
-[link to youtube] (www.youtube.com]
+[link to youtube](www.youtube.com)
